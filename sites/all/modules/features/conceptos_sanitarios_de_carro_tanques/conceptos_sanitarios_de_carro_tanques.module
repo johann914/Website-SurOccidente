@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Conceptos Sanitarios de Carro Tanques feature.
+ */
+
+include_once 'conceptos_sanitarios_de_carro_tanques.features.inc';
